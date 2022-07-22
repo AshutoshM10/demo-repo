@@ -11,6 +11,8 @@ some more text
 ##practice makes a man perfect
 ## following rules makes both man and woman perfect
 
+# lets add some more texts . 
+##More you practice , more will be your confidence
 
 
 ## Local Development
