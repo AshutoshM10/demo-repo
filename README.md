@@ -8,6 +8,8 @@ Watch tutorial on YouTube.
 some more text
 
 
+##practice makes a man perfect
+## following rules makes both man and woman perfect
 
 
 
