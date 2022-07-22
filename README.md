@@ -13,6 +13,8 @@ some more text
 
 # lets add some more texts . 
 ##More you practice , more will be your confidence
+## git repository will be updated with  new features ...
+
 
 
 ## Local Development
